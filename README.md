@@ -1,21 +1,6 @@
-# Data Sales Dashboard (Excel)
+# 📊 Data Sales Dashboard (Excel)
 
-Dashboard de vendas desenvolvido em **Microsoft Excel** como parte de um desafio de análise de dados.
-O objetivo do projeto é transformar dados brutos em **informações visuais claras**, permitindo análise de desempenho e apoio à tomada de decisão baseada em dados.
-
----
-
-# 📊 Objetivo
-
-Criar um **dashboard de vendas interativo** utilizando Excel para visualizar métricas importantes relacionadas a assinaturas de serviços.
-
-O projeto busca demonstrar habilidades em:
-
-* Organização e estruturação de dados
-* Construção de métricas de negócio
-* Visualização de dados
-* Criação de dashboards analíticos
-* Uso do Excel para análise de dados
+Criar um **dashboard de vendas interativo** utilizando Excel para visualizar métricas importantes relacionadas a assinaturas de serviços com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
 ---
 
